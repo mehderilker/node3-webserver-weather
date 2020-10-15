@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/app.js -e ejs,js,css,html,jpg,png,scss"
+    "start": "nodemon src/app.js -e ejs,js,css,html,jpg,png,scss,hbs"
 },
   "keywords": [],
   "author": "",
